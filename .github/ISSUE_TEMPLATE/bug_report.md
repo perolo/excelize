@@ -35,7 +35,7 @@ Briefly describe the problem you are having in a few paragraphs.
 (paste your output here)
 ```
 
-**Excelize version or commit ID:**
+**myexcelize version or commit ID:**
 
 ```text
 (paste here)

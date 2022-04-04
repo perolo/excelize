@@ -1,4 +1,4 @@
-module github.com/perolo/excelize
+module github.com/perolo/myexcelize
 
 go 1.18
 

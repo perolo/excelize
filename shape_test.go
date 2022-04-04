@@ -1,4 +1,4 @@
-package excelize
+package myexcelize
 
 import (
 	"path/filepath"
