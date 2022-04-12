@@ -1,6 +1,6 @@
 module github.com/perolo/myexcelize
 
-go 1.18
+go 1.13
 
 require (
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
@@ -12,11 +12,4 @@ require (
 	golang.org/x/image v0.0.0-20220321031419-a8550c1d254a
 	golang.org/x/net v0.0.0-20220403103023-749bd193bc2b
 	golang.org/x/text v0.3.7
-)
-
-require (
-	github.com/davecgh/go-spew v1.1.0 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/richardlehane/msoleps v1.0.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
